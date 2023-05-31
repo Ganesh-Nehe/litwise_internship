@@ -11,20 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clintonpi/catering-services.git"
+    "url": "https://github.com/Ganesh-Nehe/twilearn_internship"
   },
   "keywords": [
     "madam",
-    "joy's",
-    "joy",
+    "ganesh's",
     "catering"
   ],
   "author": "Clinton Nkwocha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clintonpi/catering-services/issues"
+    "url": "https://github.com/Ganesh-Nehe/twilearn_internship/issues"
   },
-  "homepage": "https://github.com/clintonpi/catering-services#readme",
+  "homepage": "https://github.com/Ganesh-Nehe/twilearn_internship#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
